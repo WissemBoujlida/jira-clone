@@ -1,4 +1,4 @@
-import { SignUpCard } from "../sign-up/components/sign-up-card";
+import { SignUpCard } from "@/modules/auth/components/sign-up-card";
 
 const SignUpPage = () => {
   return <SignUpCard />;
